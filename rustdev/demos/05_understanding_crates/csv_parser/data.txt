@@ -1,0 +1,50 @@
+2024-01-09,2024-01-13,C++ in Copenhagen
+2024-01-21,2024-01-26,Spring Boot in Helsinki
+2024-01-28,2024-02-03,Spring Boot in Bergen
+2024-02-11,2024-02-19,Kitzbuhel
+2024-03-03,2024-03-06,C++ Design in Mandal
+2024-03-06,2024-03-10,Docker in Straume
+2024-04-22,2024-04-27,Advanced C# in Oslo
+2024-05-26,2024-06-13,Various courses in Kongsberg/Oslo
+2024-06-16,2024-06-22,Advanced C++ in Oslo
+2024-07-20,2024-07-31,Holiday
+
+2024-08-11,2024-08-17,Java Sopra Steria
+2024-08-25,2024-08-31,DnB Spring Boot
+2024-09-08,2024-09-12,Kotlin in Copenhagen
+2024-09-15,2024-09-22,C++ in Kongsberg
+2024-09-22,2024-09-29,C++ in Kongsberg
+2024-09-29,2024-10-04,Advanced Python in Oslo
+2024-10-13,2024-10-19,Modern C++ in Kongsberg
+2024-11-03,2024-11-07,C++ TDD in Kongsberg
+
+2025-01-05,2025-01-10,Advanced Python in Oslo
+2025-02-09,2025-02-17,Skiing
+2025-02-23,2025-03-02,Oslo, C++
+2025-03-02,2025-03-08,Kongsberg UML
+2025-03-18,2025-03-21,Oslo, TDD1
+
+2025-04-08,2025-04-12,Oslo, TDD2
+
+#Check from here on
+2025-05-18,2025-05-25,Kongsberg
+2025-06-01,2025-06-07,Applica
+2025-06-07,2025-06-11,Belgium v Wales
+2025-06-15,2025-06-19,Kongsberg
+2025-06-23,2025-06-28,Adv Python
+
+2025-07-10,2025-07-23,Croatia
+2025-08-10,2025-08-16,Sopra Steria
+
+2025-09-14,2025-09-27,Kongsberg x 2
+
+2025-09-30,2025-10-12,Spain
+
+2025-10-19,2025-10-26,Kongsberg
+2025-10-26,2025-10-30,Adv Python, Oslo
+
+2025-11-02,2025-11-06,Kongsberg
+
+2025-11-13,2025-11-17,Liechtentein?
+
+

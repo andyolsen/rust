@@ -1,0 +1,13 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.16.1"
+rand = "0.9.1"
+polars = { version = "0.33", features = ["csv", "lazy"] }
+plotters = "0.3"
+linfa = "0.7.1"
+linfa-trees = "0.7.1"
+linfa-datasets = { version = "0.7.1", features = ["iris"] }
